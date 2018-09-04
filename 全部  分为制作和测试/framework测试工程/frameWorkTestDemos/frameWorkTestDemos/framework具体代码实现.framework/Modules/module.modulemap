@@ -1,0 +1,6 @@
+framework module framework具体代码实现 {
+  umbrella header "framework具体代码实现.h"
+
+  export *
+  module * { export * }
+}
